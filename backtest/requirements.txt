@@ -1,0 +1,5 @@
+yfinance
+pyalgotrade
+pandas
+pandas_market_calendars
+matplotlib
